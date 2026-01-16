@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Bao%20Kun&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?color=gradient&customColorList=6,11,20&height=100&section=header&text=Hi%20👋%20I'm%20Bao%20Kun&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 </div>
 
 <p align="center">
@@ -125,14 +125,6 @@ const baokun = {
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzBaowy&theme=react-dark&bg_color=0D1117&color=00C9FF&line=00C9FF&point=FFFFFF&hide_border=true&area=true&area_color=00C9FF" width="100%"/>
-</p>
-
-<br/>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzBaowy&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies"/>
 </p>
 
 <br/>
