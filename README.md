@@ -57,7 +57,7 @@ const baokun = {
 <details open>
 <summary><b>🧩 Backend Frameworks & Languages</b></summary>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -69,7 +69,7 @@ const baokun = {
 <details open>
 <summary><b>🗄️ Database & Cache</b></summary>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -82,7 +82,7 @@ const baokun = {
 <details open>
 <summary><b>🔐 Security & Authentication</b></summary>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -93,7 +93,7 @@ const baokun = {
 <details open>
 <summary><b>☁️ DevOps & Tools</b></summary>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
