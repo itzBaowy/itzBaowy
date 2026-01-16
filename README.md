@@ -112,7 +112,7 @@ const baokun = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzBaowy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=itzBaowy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=00C9FF&fire=FF6B6B&currStreakLabel=00C9FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=itzBaowy&theme=dark&hide_border=true&background=0D1117&ring=00C9FF&fire=FF6B6B&currStreakLabel=00C9FF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -129,10 +129,10 @@ const baokun = {
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzBaowy&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=itzBaowy&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies"/>
 </p>
 
 <br/>
