@@ -25,8 +25,7 @@ const baokun = {
   role: "Backend Developer",
   currentFocus: "Node.js & Microservices",
   learning: ["Advanced Architecture", "Cloud Deployment", "Redis Caching"],
-  askMeAbout: ["Node.js", "NestJS", "MongoDB", "Docker", "API Design"],
-  funFact: "I debug 80% of the time, code 20% of the time 😆",
+  askMeAbout: ["Node.js", "NestJS", "MySQL", "Docker", "API Design"],
   lifePhilosophy: "Code is poetry written in logic",
 };
 ```
