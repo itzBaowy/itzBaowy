@@ -111,12 +111,12 @@ const baokun = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itzBaowy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=ffffff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzBaowy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=itzBaowy&theme=dark&hide_border=true&background=0D1117&ring=00C9FF&fire=FF6B6B&currStreakLabel=00C9FF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzBaowy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzBaowy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 </p>
 
 <br/>
@@ -129,10 +129,10 @@ const baokun = {
 
 <br/>
 
-## 🏆 GitHub Profile
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzBaowy&theme=algolia&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=itzBaowy&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies"/>
 </p>
 
 <br/>
